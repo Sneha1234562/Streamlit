@@ -1,3 +1,0 @@
-streamlit
-Plotly.express
-pandas
